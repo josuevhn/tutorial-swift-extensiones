@@ -2,9 +2,6 @@
 
 import Cocoa
 
-<<<<<<< 22861592ee5d90b01a4fd2acd2be3f82e11140fe
-var str = "Hello, playground"
-=======
 typealias Velocity = Double
 
 extension Velocity {
@@ -137,4 +134,3 @@ var myFirstCar = Car(carMake: "Skoda", carModel: "Fabia", carYear: 2015)
 myFirstCar.fillGas()
 
 print("El carro es un \(myFirstCar.kind) marca \(myFirstCar) y el nivel de combustible es de \(myFirstCar.gasLevel)")
->>>>>>> Initial commit
